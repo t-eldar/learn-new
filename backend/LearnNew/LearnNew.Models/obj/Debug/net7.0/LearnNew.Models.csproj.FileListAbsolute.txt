@@ -1,0 +1,12 @@
+C:\Users\urc0m\source\repos\web-apps\learn-new\backend\LearnNew\LearnNew.Models\bin\Debug\net7.0\LearnNew.Models.deps.json
+C:\Users\urc0m\source\repos\web-apps\learn-new\backend\LearnNew\LearnNew.Models\bin\Debug\net7.0\LearnNew.Models.dll
+C:\Users\urc0m\source\repos\web-apps\learn-new\backend\LearnNew\LearnNew.Models\bin\Debug\net7.0\LearnNew.Models.pdb
+C:\Users\urc0m\source\repos\web-apps\learn-new\backend\LearnNew\LearnNew.Models\obj\Debug\net7.0\LearnNew.Models.csproj.AssemblyReference.cache
+C:\Users\urc0m\source\repos\web-apps\learn-new\backend\LearnNew\LearnNew.Models\obj\Debug\net7.0\LearnNew.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\urc0m\source\repos\web-apps\learn-new\backend\LearnNew\LearnNew.Models\obj\Debug\net7.0\LearnNew.Models.AssemblyInfoInputs.cache
+C:\Users\urc0m\source\repos\web-apps\learn-new\backend\LearnNew\LearnNew.Models\obj\Debug\net7.0\LearnNew.Models.AssemblyInfo.cs
+C:\Users\urc0m\source\repos\web-apps\learn-new\backend\LearnNew\LearnNew.Models\obj\Debug\net7.0\LearnNew.Models.csproj.CoreCompileInputs.cache
+C:\Users\urc0m\source\repos\web-apps\learn-new\backend\LearnNew\LearnNew.Models\obj\Debug\net7.0\LearnNew.Models.dll
+C:\Users\urc0m\source\repos\web-apps\learn-new\backend\LearnNew\LearnNew.Models\obj\Debug\net7.0\refint\LearnNew.Models.dll
+C:\Users\urc0m\source\repos\web-apps\learn-new\backend\LearnNew\LearnNew.Models\obj\Debug\net7.0\LearnNew.Models.pdb
+C:\Users\urc0m\source\repos\web-apps\learn-new\backend\LearnNew\LearnNew.Models\obj\Debug\net7.0\ref\LearnNew.Models.dll
